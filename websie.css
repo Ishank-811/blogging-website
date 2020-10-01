@@ -33,10 +33,10 @@ text-decoration: none;
 color:black;
 }
 li a:hover{
-background:red;
+background:darkred;
 text-decoration: none;
 font-size:20px;
-color:white;
+color:ghostwhite;
 }
 .icons{
 width:500px;
@@ -65,7 +65,7 @@ justify-content:center;
 padding-top:150px;
 align-items:center;
 font-family:robot;
-color:white;
+color:ghostwhite;
 
 /*max-width:50%;
 margin:auto;*/
@@ -91,9 +91,9 @@ font-size:17px;
 text-align:center;
 border-radius: 20px;
 width:130px;
-border:2px white;
+border:2px ghostwhite;
 background-color:#8989bb;
-color:white;
+color:ghostwhite;
 }
 #lower{
 position:absolute;
